@@ -1,4 +1,7 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿/* 
+ *Программа калькулятор
+*/
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Calc
 {
